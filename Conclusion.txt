@@ -1,0 +1,12 @@
+1. Why did you choose this dataset?
+- I chose the game and grades dataset because I am eager to analyze and evaluate the relationship between these two aspects. In relation to this, we can't deny how the gaming community have truly evolved in the modern era wherein a lot of students are deeply ingrained in gaming. This is also one of those that is allegedly staged as a factor to academic incompetence.
+
+2. What is your conclusion upon conducting linear regression on this dataset?
+- The R2 score of 0.24 indicates that only about 24% of variance in student grades can be explained by the given features like playing hours, playing years etc. This suggest that grades are influenced by many other factors not acknowledged in the dataset.
+
+- The red regression slopes downwards indicating that as playing hours increase, grades tend to decrease slightly. Additionally, the week R2 score suggests that this trend is not very strong. Improving the dataset could fix this issue like adding more relevant features such as study habits, sleep duration etc. 
+
+- To conclude, with this kind of dataset, non-linear models might be appropriate to capture such complex relationship.
+
+3. How relevant is linear regression today?
+- Linear regression is utilized in different sectors like business and finance, heathcare, education and marketing. This wide-array of uses makes it a fundamental tool for baseline modeling and quick insights. 
